@@ -1,14 +1,11 @@
-/*Carousel CSS*/
-
-#carousel {
-    width: 50%;
-    left: 5%;
-}
-
-.carousel-caption {
-    color: blue;
-}
-
-.carousel-indicators li {
-    background-color: #A3C6EE;
-}
+ .carousel-inner img {
+      width: 50%; /* Set width to 40% */
+      margin: auto;
+      min-height:200px;
+  }
+  
+  .carousel-inner {
+   width: 90%;
+   position: center;
+   margin: auto;
+  }
