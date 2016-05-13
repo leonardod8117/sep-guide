@@ -1,0 +1,10 @@
+ .carousel-inner img {
+      width: 45%; /* Set width to 40% */
+      margin: auto;
+      min-height:200px;
+  }
+  
+  .carousel-inner {
+   width: 90%;
+   left:5%;
+  }
