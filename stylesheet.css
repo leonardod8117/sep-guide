@@ -2,7 +2,7 @@
  .carousel-inner img {
       width: 50%; /* Set width to 50% */
       margin: auto;
-      min-height:200px;
+      min-height:300px;
   }
   
   .carousel-inner {
@@ -10,3 +10,24 @@
    position: center;
    margin: auto;
   }
+  
+  #rcorners {
+    border-radius: 15px 50px;
+    border: 2px solid #0066ff;
+    padding: 20px; 
+    margin-top: 30px;
+}
+
+#rcorners2 {
+    border-radius: 15px 50px;
+    border: 2px solid #73AD21;
+    padding: 20px; 
+    margin-top: 30px;
+}
+
+#rcorners3 {
+    border-radius: 15px 50px;
+    border: 2px solid #ff3333;
+    padding: 20px; 
+    margin-top: 30px;
+}
