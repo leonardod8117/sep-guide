@@ -41,3 +41,7 @@
     margin-top: 30px;
 }
 
+
+div.contain {
+  background-size: contain;
+}
