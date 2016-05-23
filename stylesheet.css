@@ -52,6 +52,7 @@
 #title {
   background: linear-gradient(rgba(255,255,255,.75),rgba(255,255,255,0.75)), url("gify.gif") center;
   background-size: cover;
+  color: black;
 }
 
 .container {
